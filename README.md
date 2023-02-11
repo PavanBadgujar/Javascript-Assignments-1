@@ -1,2 +1,2 @@
 # Javascript-Assignments-1
-Web Design
+Web Design 2
